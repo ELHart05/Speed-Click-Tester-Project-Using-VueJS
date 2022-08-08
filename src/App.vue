@@ -84,5 +84,6 @@
 
   .btn:disabled {
     background-color: red;
+    cursor: not-allowed;
   }
 </style>
